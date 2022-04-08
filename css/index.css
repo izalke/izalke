@@ -1,0 +1,32 @@
+
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans&display=swap');
+
+
+.main {
+    height: 800px;
+    width: 100%;
+    background-color:pink;
+   display: flex;
+   flex-direction: column;
+   } 
+
+h1 {
+    font-family: 'DM Sans', sans-serif;
+}
+.plansza{
+    width: 500px;
+    height: 500px;
+    margin: auto;
+    background-color: black;
+    color:white;
+    flex-wrap: wrap;
+    display: flex;
+}
+.kratka{
+    width: 33.3%;
+    height: 33.3%;
+    background-color: black;
+    border: 2px solid white;
+    color: white;
+    font-size: 100px;
+}
