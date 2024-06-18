@@ -22,9 +22,6 @@ Skills
   <a href="https://styled-components.com/" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4" alt="styled-components" width="40" height="40"/>
   </a>
-  <a href="https://redux.js.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
-  </a>
   <a href="https://www.w3schools.com/sql/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
   </a>
