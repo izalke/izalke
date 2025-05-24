@@ -33,11 +33,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=izalke&show_icons=true&locale=en&layout=compact" alt="izalke" />
 </p>
 
----
 
-### 🔗 Connect with me
-<p align="left">
-  <a href="mailto:izkaskowron@gmail.com"><img align="center" src="https://img.icons8.com/fluency/48/gmail-new.png" height="30" /></a>
-</p>
-
----
