@@ -64,7 +64,7 @@ const iza: Developer = {
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 </div>
----
+<!-- ---
 
 ## stats
 <div align="center">
@@ -72,7 +72,7 @@ const iza: Developer = {
 <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=izalke&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </div>
 
----
+--- -->
 
 <div align="center">
 
