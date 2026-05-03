@@ -32,7 +32,7 @@ const iza: Developer = {
 
 ## `$ cat interests.md`
 
-> I love building things that **move**. Static pages are boring — I'm into smooth transitions, scroll-driven animations, and interfaces that feel responsive and alive. I also spend a lot of time exploring how **AI** is reshaping the way we build and think about software. From AI-powered dev tools to generative design — I'm all in.
+> I love building things that **move**. Static pages are boring - I'm into smooth transitions, scroll-driven animations, and interfaces that feel responsive and alive. I also spend a lot of time exploring how **AI** is reshaping the way we build and think about software. From AI-powered dev tools to generative design - I'm all in.
 
 ---
 
